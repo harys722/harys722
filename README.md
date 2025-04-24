@@ -17,7 +17,7 @@ I am a young student and passionate developer dedicated to deepening my knowledg
 
 ---
 
-<details> 
+<!-- <details> 
 	<summary>"Let us connect together!"</summary>
 	<br>
 	<ul>
@@ -29,4 +29,27 @@ I am a young student and passionate developer dedicated to deepening my knowledg
     <br>
     <sub><li><a href="https://discord.gg/CPN5eYPABx">Discord Server</a> (The Community 🌏)</li></sub>
 	</ul>
-</details>
+</details> 
+-->
+
+<table border="2px"; align=center>
+	<tr align=center>
+		<th width="300">👥 Socials</th>
+		<th width="300">📚 Resources</th>
+	</tr>
+	<br>
+	<tr align=center>
+		<td><a href="https://github.com/harys722">Github</a></td>
+		<td><a href="https://harys.is-a.dev">Website</a></td>
+	</tr>
+	<br>
+	<tr align=center>
+		<td><a href="https://discord.com/users/1203357768610746385">Discord</a></td>
+		<td><a href="https://discord.gg/CPN5eYPABx">Discord Server</a></td>
+	</tr>
+</table>
+
+<br>
+	<div align=center>
+		<sub align=center>Psst!! 🤫 This is the end — &copy harys722</sub>
+	</div>
