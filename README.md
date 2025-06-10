@@ -1,5 +1,9 @@
 <h1>Hey, this is me 👋</h1>
-I am a young student and passionate developer dedicated to deepening my knowledge of technology and keeping up with the ever-evolving digital landscape. Enhancing my skills and expanding my horizons through continuous learning. That's who I am!
+I am a young student and passionate developer dedicated to deepening my knowledge of technology and keeping up with the ever-evolving digital landscape. Enhancing my skills and expanding my horizons through continuous learning. That's who I am!<br><br>
+
+<div align="center">
+	<a href="https://discord.com/users/1203357768610746385"><img src="https://lanyard.cnrad.dev/api/1203357768610746385?borderRadius=10px&theme=dark&showDisplayName=true&bg=303446" /></a>
+</div>
 
 <h3>🎯 Projects</h3>
 <ul>
