@@ -23,8 +23,12 @@ I am a young student and passionate developer dedicated to deepening my knowledg
 
 <h2 align="center">GitHub's Stats</h2>
 
-| <a href="https://github-readme-stats.vercel.app/api?username=harys722&layout=compact&langs_count=8&card_width=320&theme=gruvbox"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harys722&layout=compact&langs_count=8&card_width=320&theme=gruvbox" alt="Anurag's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs?username=harys722&theme=gruvbox"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harys722&theme=gruvbox" /></a> | <a href="https://github-readme-streak-stats.herokuapp.com/?user=harys722&theme=gruvbox"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harys722&theme=gruvbox" /></a>
-| ------------- | ------------- | ------------- |
+| <a href="https://github-readme-stats.vercel.app/api?username=harys722&layout=compact&langs_count=8&card_width=320&theme=gruvbox"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harys722&layout=compact&langs_count=8&card_width=320&theme=gruvbox" alt="GitHub Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs?username=harys722&theme=gruvbox"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harys722&theme=gruvbox" /></a> |
+| ------------- | -------------- |
+
+| <a href="https://github-readme-streak-stats.herokuapp.com/?user=harys722&theme=gruvbox"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harys722&theme=gruvbox" alt="harys722" /></a> |  
+| -------------- |
+
 <!-- <details> 
 	<summary>"Let us connect together!"</summary>
 	<br>
