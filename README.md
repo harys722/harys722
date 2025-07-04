@@ -1,27 +1,30 @@
-<h1>Hey, this is me 👋</h1>
-I am a young student and passionate developer dedicated to deepening my knowledge of technology and keeping up with the ever-evolving digital landscape. Enhancing my skills and expanding my horizons through continuous learning. That's who I am!<br><br>
+<h1 align="center">
+  <b>Hi, I'm - HARYs - </b><img src="img/wave.gif" width="35">
+  <br>
+</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DDF700&background=63FFE100&width=435&lines=A+beginner+passionate+developer.;Web+development+lover.;Discord+Server+Moderator+%26+Manager.;Always+looking+for+ways+to+grow." alt="Typing SVG" /></a>
+</p>
 
-<div align="center">
-	<a href="https://discord.com/users/1203357768610746385"><img src="https://lanyard.cnrad.dev/api/1203357768610746385?borderRadius=20px&theme=dark&showDisplayName=true&bg=303446" /></a>
-</div>
+<br/>
 
-<h3>🎯 Projects</h3>
-<ul>
-	<li><b>Bot Project</b> — A full-featured Discord bot.</li>
-  <li><b>Discord Server</b> — I'm also handling a Discord server. Feel free to join us! (<a href="https://discord.gg/CPN5eYPABx">link</a>)</li>
-  <li><b>Discord Manager & Moderator</b> — Experience in managing and moderating multiple Discord servers, ensuring a safe environment for users.</li>
-	<li>I'm a beginner developer, I'm still learning programming languages to enchanced my skills day by day. I'm familiar with these languages:
-		<ul>
-			<li>HTML</li>
-			<li>Python</li>
-		</ul>
-	</li>
-		<li>By the way, my <a href="https://harys.is-a.dev">website</a> 🤓 is also one of my favourite project.</li>
-	</ul>
+# 💫 About Me:
+<picture> <img align="right" src="img/programmer.gif" width = 250px></picture>
+<br><br>
+I am a young student and passionate developer dedicated to deepening my knowledge of technology and keeping up with the ever-evolving digital landscape. Enhancing my skills and expanding my horizons through continuous learning. That's who I am!
+
+If you would like to reach out me, I'm also handling a Discord server. Feel free to join us using this ([invite link](https://discord.gg/CPN5eYPABx)). You may also shoot an email at [contact@harys.is-a.dev](mailto:contact@harys.is-a.dev).
+<br><br>
+
+# 🎯 Projects
+- <b>Discord Server</b> — I'm also handling a Discord server. Feel free to join us! ([link](https://discord.gg/CPN5eYPABx))
+- <b>Discord Manager & Moderator</b> — Experience in managing and moderating multiple Discord servers, ensuring a safe environment for users.
+- <b>[Free Domains](https://github.com/harys722/free-domains)</b> — I maintain a GitHub repository that showcase a massive list of free subdomains ideal for personal websites, open source projects, portfolio showcases, and innovative online ventures. 
+- By the way, my [website](https://www.harys.is-a.dev/) 🤓 is also one of my favourite project.
 
 ---
 
-<h2 align="center">GitHub's Stats</h2>
+<h1 align="center">GitHub's Stats</h1>
 
 | <a href="https://github-readme-stats.vercel.app/api?username=harys722&layout=compact&langs_count=8&card_width=320&theme=gruvbox"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harys722&layout=compact&langs_count=8&card_width=320&theme=gruvbox" alt="GitHub Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs?username=harys722&theme=gruvbox"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harys722&theme=gruvbox" /></a> |
 | ------------- | -------------- |
@@ -29,23 +32,9 @@ I am a young student and passionate developer dedicated to deepening my knowledg
 | <a href="https://github-readme-streak-stats.herokuapp.com/?user=harys722&theme=gruvbox"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harys722&theme=gruvbox" alt="harys722" /></a> |  
 | -------------- |
 
-<!-- <details> 
-	<summary>"Let us connect together!"</summary>
-	<br>
-	<ul>
-	  <sub><li><a href="https://github.com/harys722">Github</a> (Yes, it is. 🤫)</li></sub>
-    <br>
-    <sub><li><a href="https://discord.com/users/1203357768610746385">Discord</a> (Username: harys722 👤)</li></sub>
-    <br>
-    <sub><li><a href="https://harys.is-a.dev">Website</a> (Showcase ✨)</li></sub>
-    <br>
-    <sub><li><a href="https://discord.gg/CPN5eYPABx">Discord Server</a> (The Community 🌏)</li></sub>
-	</ul>
-</details> 
--->
-
 ---
-<h2 align="center">Extras</h2>
+
+<h1 align="center">Extras</h1>
 <table border="2px"; align=center>
 	<tr align=center>
 		<th width="300">👥 Socials</th>
