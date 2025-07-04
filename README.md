@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hi, I'm - HARYs - </b><img src="img/wave.gif" width="35">
+  <b>Hi, I'm - HARYs - </b><img src="img/wave.gif" title="Hey!" alt="wave" width="35">
   <br>
 </h1>
 <p align="center">
@@ -15,6 +15,8 @@ I am a young student and passionate developer dedicated to deepening my knowledg
 
 If you would like to reach out me, I'm also handling a Discord server. Feel free to join us using this ([invite link](https://discord.gg/CPN5eYPABx)). You may also shoot an email at [contact@harys.is-a.dev](mailto:contact@harys.is-a.dev).
 <br><br>
+
+<a href="https://discord.com/users/1203357768610746385"><img src="https://lanyard.cnrad.dev/api/1203357768610746385?borderRadius=20px&theme=dark&showDisplayName=true&bg=303446" title="Discord Status" alt="Discord Status" /></a>
 
 # 🎯 Projects
 - <b>Discord Server</b> — I'm also handling a Discord server. Feel free to join us! ([link](https://discord.gg/CPN5eYPABx))
