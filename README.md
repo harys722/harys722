@@ -3,7 +3,7 @@
   <br>
 </h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DDF700&background=63FFE100&width=435&lines=A+beginner+passionate+developer.;Web+development+lover.;Discord+Server+Moderator+%26+Manager.;Always+looking+for+ways+to+grow." alt="Typing SVG" /></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DDF700&background=63FFE100&width=435&lines=A+beginner+passionate+developer.;Web+development+lover.;Discord+Server+Moderator+%26+Manager.;Always+looking+for+ways+to+grow." alt="Typing SVG" /></a>
 </p>
 
 <br/>
@@ -16,7 +16,7 @@ I am a young student and passionate developer dedicated to deepening my knowledg
 If you would like to reach out me, I'm also handling a Discord server. Feel free to join us using this ([invite link](https://discord.gg/CPN5eYPABx)). You may also shoot an email at [contact@harys.is-a.dev](mailto:contact@harys.is-a.dev).
 <br><br>
 
-<a href="https://discord.com/users/1203357768610746385"><img src="https://lanyard.cnrad.dev/api/1203357768610746385?borderRadius=20px&theme=dark&showDisplayName=true&bg=303446" title="Discord Status" alt="Discord Status" /></a>
+<a href="#"><img src="https://lanyard.cnrad.dev/api/1203357768610746385?borderRadius=20px&theme=dark&showDisplayName=true&bg=303446" title="Discord Status" alt="Discord Status" /></a>
 
 # 🎯 Projects
 - <b>Discord Server</b> — I'm also handling a Discord server. Feel free to join us! ([link](https://discord.gg/CPN5eYPABx))
@@ -28,10 +28,10 @@ If you would like to reach out me, I'm also handling a Discord server. Feel free
 
 <h1 align="center">GitHub's Stats</h1>
 
-| <a href="https://github-readme-stats.vercel.app/api?username=harys722&layout=compact&langs_count=8&card_width=320&theme=gruvbox"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harys722&layout=compact&langs_count=8&card_width=320&theme=gruvbox" alt="GitHub Stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs?username=harys722&theme=gruvbox"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harys722&theme=gruvbox" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harys722&layout=compact&langs_count=8&card_width=320&theme=gruvbox" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harys722&theme=gruvbox" /></a> |
 | ------------- | -------------- |
 
-| <a href="https://github-readme-streak-stats.herokuapp.com/?user=harys722&theme=gruvbox"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harys722&theme=gruvbox" alt="harys722" /></a> |  
+| <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harys722&theme=gruvbox" alt="harys722" /></a> |  
 | -------------- |
 
 ---
