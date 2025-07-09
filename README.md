@@ -1,6 +1,8 @@
 <h1 align="center">
-  <b>Hi, I'm - HARYs - </b><img src="img/wave.gif" title="Hey!" alt="wave" width="35">
-  <br>
+  <b>Hi, I'm - HARYs - </b><a href="#"><img src="img/wave.gif" title="Hey!" alt="wave" width="35" /></a>
+  <br /><br />
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=harys722&label=profile+views&color=yellow&style=for-the-badge&abbreviated=true" alt="GitHub profile views" /></a>
+
 </h1>
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DDF700&background=63FFE100&width=435&lines=A+beginner+passionate+developer.;Web+development+lover.;Discord+Server+Moderator+%26+Manager.;Always+looking+for+ways+to+grow." alt="Typing SVG" /></a>
@@ -31,7 +33,7 @@ If you would like to reach out me, I'm also handling a Discord server. Feel free
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harys722&layout=compact&langs_count=8&card_width=320&theme=gruvbox" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harys722&theme=gruvbox" /></a> |
 | ------------- | -------------- |
 
-| <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harys722&theme=gruvbox" alt="harys722" /></a> |  
+| <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harys722&theme=gruvbox" alt="harys722" /></a> |
 | -------------- |
 
 ---
