@@ -30,10 +30,10 @@ If you would like to reach out me, I'm also handling a Discord server. Feel free
 
 <h1 align="center">GitHub's Stats</h1>
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harys722&layout=compact&langs_count=8&card_width=320&theme=gruvbox" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harys722&theme=gruvbox" /></a> |
+| <a href="#"><img align="center" src="https://gh-rs.vercel.app/api?username=harys722&layout=compact&langs_count=8&card_width=320&theme=gruvbox" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://gh-rs.vercel.app/api/top-langs?username=harys722&theme=gruvbox" /></a> |
 | ------------- | -------------- |
 
-| <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harys722&theme=gruvbox" alt="harys722" /></a> |
+| <a href="#"><img align="center" src="https://grss.vercel.app/?user=harys722&theme=gruvbox" alt="harys722" /></a> |
 | -------------- |
 
 ---
