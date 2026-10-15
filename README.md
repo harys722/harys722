@@ -16,10 +16,15 @@
 
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://ghdcc.vercel.app/api?type=rect&height=2&section=header&color=0:232634,50:C9A13B,100:232634" width="70%" alt="" />
+</p>
 
-<!-- TECH -->
-<h3 align="center">⚡ What I work with</h3>
+<!-- STACK -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=60000&color=E5B84B&center=true&vCenter=true&repeat=false&width=520&height=40&lines=What+I+work+with" alt="What I work with" />
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,discord&theme=dark" alt="Tech stack" />
   <br/><br/>
@@ -28,36 +33,44 @@
   <img src="https://img.shields.io/badge/Community_Management-232634?style=flat-square&logo=discord&logoColor=E5B84B" alt="Community Management" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://ghdcc.vercel.app/api?type=rect&height=2&section=header&color=0:232634,50:C9A13B,100:232634" width="70%" alt="" />
+</p>
 
 <!-- PROJECTS -->
-<h3 align="center">🚀 Featured projects</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=60000&color=E5B84B&center=true&vCenter=true&repeat=false&width=520&height=40&lines=Featured+projects" alt="Featured projects" />
+</p>
 
 <table align="center">
   <tr>
     <td width="33%" valign="top" align="center">
-      <h4><a href="https://github.com/harys722/free-domains">🌐 Free Domains</a></h4>
+      <h4><a href="https://github.com/harys722/free-domains">Free Domains</a></h4>
       <sub>A big list of free subdomains for portfolios, open source and side projects.</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <h4><a href="https://github.com/profilie/profilie">✨ Profilie</a></h4>
+      <h4><a href="https://github.com/profilie/profilie">Profilie</a></h4>
       <sub>A static site generator for building a simple, good-looking one-page website.</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <h4><a href="https://harys.is-a.dev/tools">🧰 Free Tools</a></h4>
+      <h4><a href="https://harys.is-a.dev/tools">Free Tools</a></h4>
       <sub>Free, powerful tools to help you work smarter, not harder.</sub>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <sub>More: <a href="https://github.com/harys722/open-api">Open API</a> · <a href="https://github.com/harys722/url-shortener">URL Shortener</a> · <a href="https://github.com/harys722/github-guides">GitHub Guides</a></sub>
+  <sub>also: <a href="https://github.com/harys722/open-api">open-api</a> · <a href="https://github.com/harys722/url-shortener">url-shortener</a> · <a href="https://github.com/harys722/github-guides">github-guides</a></sub>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://ghdcc.vercel.app/api?type=rect&height=2&section=header&color=0:232634,50:C9A13B,100:232634" width="70%" alt="" />
+</p>
 
 <!-- STATS -->
-<h3 align="center">📊 GitHub stats</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=60000&color=E5B84B&center=true&vCenter=true&repeat=false&width=520&height=40&lines=GitHub+stats" alt="GitHub stats" />
+</p>
 
 <p align="center">
   <img height="170" src="https://gh-rs.vercel.app/api?username=harys722&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=232634&title_color=E5B84B&icon_color=E5B84B&text_color=C6CAE0" alt="GitHub Stats" />
@@ -68,10 +81,36 @@
   <img src="https://grss.vercel.app/?user=harys722&theme=dark&hide_border=true&background=232634&ring=E5B84B&fire=E5B84B&currStreakLabel=E5B84B&currStreakNum=C6CAE0&sideNums=C6CAE0&sideLabels=C6CAE0&dates=8C91A8" alt="Streak" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://ghdcc.vercel.app/api?type=rect&height=2&section=header&color=0:232634,50:C9A13B,100:232634" width="70%" alt="" />
+</p>
+
+<!-- CONTRIBUTION GRAPHS -->
+<!-- snake comes from .github/workflows/snake.yml (output branch); space shooter comes from .github/workflows/space-shooter.yml -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=60000&color=E5B84B&center=true&vCenter=true&repeat=false&width=520&height=40&lines=Contribution+graphs" alt="Contribution graphs" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harys722/harys722/output/snake.svg" alt="Contribution snake" width="95%" />
+  <br/>
+  <sub><i>The snake eating my contributions</i></sub>
+</p>
+
+<p align="center">
+  <img src="space-shooter.gif" alt="Contribution space shooter" width="95%" />
+  <br/>
+  <sub><i>My commits fighting back</i></sub>
+</p>
+
+<p align="center">
+  <img src="https://ghdcc.vercel.app/api?type=rect&height=2&section=header&color=0:232634,50:C9A13B,100:232634" width="70%" alt="" />
+</p>
 
 <!-- CONTACT -->
-<h3 align="center">📬 Get in touch</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=60000&color=E5B84B&center=true&vCenter=true&repeat=false&width=520&height=40&lines=Get+in+touch" alt="Get in touch" />
+</p>
 
 <p align="center">
   Discord: <a href="https://discord.com/users/1203357768610746385"><b>harys722</b></a>
